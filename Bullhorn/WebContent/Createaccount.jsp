@@ -28,7 +28,7 @@
 <label >Username: </label>
 <input  type="text" name="username" ><br>
 <label >Password: </label>
-<input  type="text" name="userpass" ><br>
+<input  type="password" name="userpass" ><br>
 <label >Motto: </label>
 <input  type="text" name="motto" ><br>
 <input type="submit" value="Join" id="submit">

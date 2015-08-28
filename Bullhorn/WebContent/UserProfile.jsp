@@ -28,7 +28,7 @@
         <li><a href="Home.jsp">Make a Post</a></li>
         <li><a href="News">News Feed</a></li>
         <li class="active"><a href="Profile">User Profile</a></li>
-        <li><a href="Search.jsp">Search</a></li>
+
       </ul>
     </div>
   </div>
